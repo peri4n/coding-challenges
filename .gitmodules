@@ -1,0 +1,12 @@
+[submodule "go-challenges"]
+	path = go-challenges
+	url = git@github.com:peri4n/go-challenges.git
+[submodule "rust-challenges"]
+	path = rust-challenges
+	url = git@github.com:peri4n/rust-challenges.git
+[submodule "haskell-challenges"]
+	path = haskell-challenges
+	url = git@github.com:peri4n/haskell-challenges.git
+[submodule "python-challenges"]
+	path = python-challenges
+	url = git@github.com:peri4n/python-challenges.git
